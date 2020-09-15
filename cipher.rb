@@ -1,4 +1,7 @@
 def caesar_cipher(string, int)
+  if int > 26
+    int %= 26
+  end
   cipher = ""
   string = string.bytes
   string.each do |char|
