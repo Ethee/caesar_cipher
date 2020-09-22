@@ -1,4 +1,4 @@
-#Caesar Cipher
+## Caesar Cipher
 
 A simple caesar cipher method.
 
